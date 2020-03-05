@@ -1,0 +1,13 @@
+X:\18022020\bin\Debug\18022020.exe.config
+X:\18022020\bin\Debug\18022020.exe
+X:\18022020\bin\Debug\18022020.pdb
+X:\18022020\obj\Debug\18022020.csprojAssemblyReference.cache
+X:\18022020\obj\Debug\MainWindow.baml
+X:\18022020\obj\Debug\MainWindow.g.cs
+X:\18022020\obj\Debug\App.g.cs
+X:\18022020\obj\Debug\18022020_MarkupCompile.cache
+X:\18022020\obj\Debug\18022020.g.resources
+X:\18022020\obj\Debug\_18022020.Properties.Resources.resources
+X:\18022020\obj\Debug\18022020.csproj.GenerateResource.cache
+X:\18022020\obj\Debug\18022020.exe
+X:\18022020\obj\Debug\18022020.pdb
